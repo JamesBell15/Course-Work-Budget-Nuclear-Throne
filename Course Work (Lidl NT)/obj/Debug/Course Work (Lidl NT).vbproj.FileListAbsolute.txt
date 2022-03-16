@@ -1,0 +1,60 @@
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe.config
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).pdb
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).xml
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbprojResolveAssemblyReference.cache
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Resources.resources
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbproj.GenerateResource.Cache
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).exe
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).xml
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).pdb
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.CharacterSelect.resources
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.GameLoop.resources
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.MainMenu.resources
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Settings.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe.config
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).exe
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).xml
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).pdb
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).pdb
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).xml
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbprojResolveAssemblyReference.cache
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.CharacterSelect.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.GameLoop.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.MainMenu.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Resources.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Settings.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbproj.GenerateResource.Cache
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe.config
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).exe
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).xml
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).pdb
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).pdb
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).xml
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.CharacterSelect.resources
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.GameLoop.resources
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.MainMenu.resources
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Resources.resources
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Settings.resources
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbproj.GenerateResource.Cache
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe.config
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).exe
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).xml
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).pdb
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).exe
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).pdb
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\bin\Debug\Course Work (Lidl NT).xml
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbprojResolveAssemblyReference.cache
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.CharacterSelect.resources
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.GameLoop.resources
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.MainMenu.resources
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Resources.resources
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Settings.resources
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbproj.GenerateResource.Cache
+D:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Pause.resources
+I:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Pause.resources
+F:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Pause.resources
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course Work (Lidl NT).vbprojAssemblyReference.cache
+E:\College work\CS course work\Course Work (Lidl NT)\Course Work (Lidl NT)\obj\Debug\Course_Work__Lidl_NT_.Pause.resources

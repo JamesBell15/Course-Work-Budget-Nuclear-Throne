@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Course Work (Lidl NT)
+</name>
+</assembly>
+<members>
+<member name="T:Course_Work__Lidl_NT_.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources._Error">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.ChaSplash1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.ChaSplash2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.ChaSplash3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Enemy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.EnemyA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.EnemyS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Player1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Player2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Player3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Course_Work__Lidl_NT_.My.Resources.Resources.Start">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
