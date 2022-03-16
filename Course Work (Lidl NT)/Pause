@@ -1,0 +1,28 @@
+﻿Public Class DeathScreen
+    Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
+        End
+    End Sub
+
+    Private Sub MainButton_Click(sender As Object, e As EventArgs) Handles MainButton.Click
+        Me.Hide()
+        MainMenu.Show()
+    End Sub
+
+    Private Sub RestartButton_Click(sender As Object, e As EventArgs) Handles RestartButton.Click
+        Me.Hide()
+        GameLoop.Show()
+
+    End Sub
+
+    Private Sub DeathScreen_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        If GameLoop.GameOver Then
+            ResumeButton.Hide()
+        Else
+            ResumeButton.Show()
+        End If
+    End Sub
+
+    Private Sub ResumeButton_Click(sender As Object, e As EventArgs) Handles ResumeButton.Click
+
+    End Sub
+End Class
