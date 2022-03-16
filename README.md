@@ -7,3 +7,5 @@ with vs studio just launch it as you would any other project
 once in the "game" (sim?) number keys to change weapon, wasd to move and esc to get menu options
 
 made as a part of my A level cs course work, It aims to generate random traverable terrain in OOP style. On top of the world generation a vector simulation is used to simulate acceleration and reflection of various objects.
+
+Written in my second year of college (2018)
