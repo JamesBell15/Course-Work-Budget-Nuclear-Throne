@@ -1,4 +1,5 @@
 Without vs studio launch the "Course Work (Lidl NT).exe" in the bin/debug folder
+
 with vs studio just launch it as you would any other project
 
 5 and 24 choose the "pixel" size, ie 5 for whole map view or 24 zoomed in view
